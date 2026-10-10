@@ -1,0 +1,6 @@
+{
+  "name": "AeroCinema Offline Video Vault",
+  "description": "High-performance, local-first offline video player and library with IndexedDB persistence, gesture controls, subtitle parsing, and instant playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
